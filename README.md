@@ -3,7 +3,7 @@
 Editoimme tässä README-tiedostoa ja katsomme mitä tapahtuu.
 
 - Loimme repon ohjeiden mukaan
-- Lisäsimme README-tiedoston
+- Lisäsimme **README**-tiedoston
 - Päivitimme tiedoston sisältöä
 - Jaoimme tiedoston linkin Teamsissa muulle luokalle
 

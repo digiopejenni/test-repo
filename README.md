@@ -18,8 +18,3 @@ Tässä näytän, miten koodinpätkän voi lisätä md-kielellä
 
 3. Käytä vastaavaa koodia omassa työssäsi.
 
-1. Tehtävä:
-Arvaa tämän kuvan perusteella, kuka kehitti Gitin
-
-    ![Tux, the Linux mascot](https://freesvg.org/linux-logo-vector-image)
-2. Kerro minulle vinkki!

@@ -17,3 +17,7 @@ Tässä näytän, miten koodinpätkän voi lisätä md-kielellä
           </head>
 
 3. Käytä vastaavaa koodia omassa työssäsi.
+
+Arvaa tämän kuvan perusteella, kuka kehitti Gitin
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)

@@ -10,6 +10,10 @@ Editoimme tässä README-tiedostoa ja katsomme mitä tapahtuu.
 Tässä näytän, miten koodinpätkän voi lisätä md-kielellä
 1. Käytä listaa
 2. Etsi koodistani tämä pätkä
+3. Daa daa
+4. Dee
+5. Duu
+6. Doo
 
         <html>
           <head>

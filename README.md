@@ -18,3 +18,10 @@ Tässä näytän, miten koodinpätkän voi lisätä md-kielellä
 
 3. Käytä vastaavaa koodia omassa työssäsi.
 
+Miksi käyttää MD-kieltä
+* helposti luettava sisältö
+* muotoiltavissa eri dokumenttityypeiksi
+* helppo poppia
+
+![Kuvallekin on paikka](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)
+

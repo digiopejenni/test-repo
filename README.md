@@ -25,3 +25,5 @@ Miksi käyttää MD-kieltä
 
 ![Kuvallekin on paikka](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)
 
+> On tärkeää oppia dokumentoimaan omaa koodia ja tekemään muistiinpanoja selkeästi ja luettavasti. Markdown -kieli on erinomainen tapa toteuttaa tämä.
+
